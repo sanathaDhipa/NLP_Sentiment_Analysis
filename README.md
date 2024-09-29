@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project focuses on analyzing the sentiment of Twitter posts from 28th - 29th May 2019 related to Prabowo Subianto during the Indonesia Public Election. The dataset used for this analysis is sourced from [Indonesia Public Election Twitter Sentiment repository](https://github.com/audhiaprilliant/Indonesia-Public-Election-Twitter-Sentiment-Analysis/blob/master/Datasets/Sentiment%20Data%20Prabowo%20Subianto.csv).
+This project focuses on analyzing the sentiment of Twitter posts from 28th - 29th May 2019 related to Prabowo Subianto. The dataset used for this analysis is sourced from [Indonesia Public Election Twitter Sentiment repository](https://github.com/audhiaprilliant/Indonesia-Public-Election-Twitter-Sentiment-Analysis/blob/master/Datasets/Sentiment%20Data%20Prabowo%20Subianto.csv).
 
 Two machine learning models were developed which is a Support Vector Machine (SVM) model and a Naive Bayes model. The project begins with data preprocessing, which includes cleaning the tweets, tokenizing the text, and applying stemming to reduce words to their root forms. The preprocessing step also involves removing stopwords and non-alphabetic characters to ensure that only relevant words are retained for analysis.
 
